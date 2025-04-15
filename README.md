@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SebastijanRC
+- 👋 Hi, I’m @SebastijanRC /(S R Cimerman)
 - I am a python dev with Bachelors degree of Electrical Engineering
-- ⚡ School: University of Ljubljana, Faculty of Electrical Engineering
+- ⚡ Eucation: University of Ljubljana, Faculty of Electrical Engineering
 
 <!---
 SebastijanRC/SebastijanRC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
