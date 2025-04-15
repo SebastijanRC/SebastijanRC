@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SebastijanRC /(S R Cimerman)
-- I am a python dev with Bachelors degree of Electrical Engineering
+- I am a data analyst / python dev with Bachelors degree of Electrical Engineering
 - ⚡ Eucation: University of Ljubljana, Faculty of Electrical Engineering
 
 <!---
